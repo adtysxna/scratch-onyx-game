@@ -1,6 +1,6 @@
 # scratch-onyx-game
 CS50 Week 0 Scratch game where Onyx catches squirrels within a time limit.
-# Onyx Catch Game 🎮
+# Onyx Catch Game 
 
 This is my Week 0 project for CS50.
 
